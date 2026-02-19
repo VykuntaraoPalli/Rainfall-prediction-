@@ -1,0 +1,5 @@
+{
+  "name": "Rainfall Prediction in India for Agriculture",
+  "description": "An end-to-end ML project demonstrating data preprocessing, exploratory analysis, and predictive modeling for Indian rainfall patterns to assist in agricultural planning.",
+  "requestFramePermissions": []
+}
